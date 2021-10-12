@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mahaguru
+- 👋 Hi, I’m Saurabh Kumar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DSA with C++
 - 💞️ I’m looking to collaborate on similar projects
-- 📫 How to reach me : insta - @goodlucknishad
+- 📫 How to reach me : goodlucknishad@gmail.com
 
 <!---
 mahaguru-codes/mahaguru-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
